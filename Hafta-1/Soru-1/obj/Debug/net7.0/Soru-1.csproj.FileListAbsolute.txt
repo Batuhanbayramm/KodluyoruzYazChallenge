@@ -1,0 +1,15 @@
+C:\Users\Monster\Desktop\Kodluyoruz-Yaz-Challenge\KodluyoruzYazChallenge\Hafta-1\Soru-1\obj\Debug\net7.0\Soru-1.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\Kodluyoruz-Yaz-Challenge\KodluyoruzYazChallenge\Hafta-1\Soru-1\obj\Debug\net7.0\Soru-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\Kodluyoruz-Yaz-Challenge\KodluyoruzYazChallenge\Hafta-1\Soru-1\obj\Debug\net7.0\Soru-1.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\Kodluyoruz-Yaz-Challenge\KodluyoruzYazChallenge\Hafta-1\Soru-1\obj\Debug\net7.0\Soru-1.AssemblyInfo.cs
+C:\Users\Monster\Desktop\Kodluyoruz-Yaz-Challenge\KodluyoruzYazChallenge\Hafta-1\Soru-1\obj\Debug\net7.0\Soru-1.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Kodluyoruz-Yaz-Challenge\KodluyoruzYazChallenge\Hafta-1\Soru-1\bin\Debug\net7.0\Soru-1.exe
+C:\Users\Monster\Desktop\Kodluyoruz-Yaz-Challenge\KodluyoruzYazChallenge\Hafta-1\Soru-1\bin\Debug\net7.0\Soru-1.deps.json
+C:\Users\Monster\Desktop\Kodluyoruz-Yaz-Challenge\KodluyoruzYazChallenge\Hafta-1\Soru-1\bin\Debug\net7.0\Soru-1.runtimeconfig.json
+C:\Users\Monster\Desktop\Kodluyoruz-Yaz-Challenge\KodluyoruzYazChallenge\Hafta-1\Soru-1\bin\Debug\net7.0\Soru-1.dll
+C:\Users\Monster\Desktop\Kodluyoruz-Yaz-Challenge\KodluyoruzYazChallenge\Hafta-1\Soru-1\bin\Debug\net7.0\Soru-1.pdb
+C:\Users\Monster\Desktop\Kodluyoruz-Yaz-Challenge\KodluyoruzYazChallenge\Hafta-1\Soru-1\obj\Debug\net7.0\Soru-1.dll
+C:\Users\Monster\Desktop\Kodluyoruz-Yaz-Challenge\KodluyoruzYazChallenge\Hafta-1\Soru-1\obj\Debug\net7.0\refint\Soru-1.dll
+C:\Users\Monster\Desktop\Kodluyoruz-Yaz-Challenge\KodluyoruzYazChallenge\Hafta-1\Soru-1\obj\Debug\net7.0\Soru-1.pdb
+C:\Users\Monster\Desktop\Kodluyoruz-Yaz-Challenge\KodluyoruzYazChallenge\Hafta-1\Soru-1\obj\Debug\net7.0\Soru-1.genruntimeconfig.cache
+C:\Users\Monster\Desktop\Kodluyoruz-Yaz-Challenge\KodluyoruzYazChallenge\Hafta-1\Soru-1\obj\Debug\net7.0\ref\Soru-1.dll
